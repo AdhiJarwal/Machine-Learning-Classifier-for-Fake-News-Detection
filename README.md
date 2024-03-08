@@ -1,0 +1,1 @@
+This project tackles the challenge of fake news by developing a machine learning model to classify real and fabricated news articles. By analyzing text for patterns and characteristics, the model aims to equip users with a powerful tool to discern truth from fiction in the digital age.
